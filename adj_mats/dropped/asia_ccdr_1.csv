@@ -1,0 +1,8 @@
+,asia,smoke,lung,bronc,either,xray,dysp
+asia,0,0,0,0,0,0,0
+smoke,0,0,0,0,0,0,0
+lung,0,0,0,0,0,0,0
+bronc,0,0,0,0,0,0,0
+either,0,0,1,0,0,0,0
+xray,0,0,1,0,1,0,0
+dysp,0,0,0,1,0,0,0

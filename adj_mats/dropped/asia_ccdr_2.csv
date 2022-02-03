@@ -1,0 +1,8 @@
+,asia,tub,lung,bronc,either,xray,dysp
+asia,0,0,0,1,0,0,0
+tub,1,0,0,0,0,0,0
+lung,0,0,0,0,0,0,0
+bronc,0,0,1,0,0,0,0
+either,0,1,1,0,0,1,0
+xray,0,1,1,0,0,0,0
+dysp,0,0,0,1,1,0,0
